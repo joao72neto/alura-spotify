@@ -1,6 +1,7 @@
 body{
     background-color: black;
     font-family: var(--font-dm-sans);
+    overflow: hidden;
 }
 
 
@@ -162,7 +163,7 @@ body{
 
 
 .languages{
-    padding-bottom: 15px;
+    padding-bottom: 22px;
 }
 
 .languages  .languages_button{
